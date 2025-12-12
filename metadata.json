@@ -1,0 +1,7 @@
+{
+  "name": "Keep Grow",
+  "description": "A mental health companion app offering diverse AI personas for support, ranging from professional therapy to societal wisdom and motivation, featuring mood tracking and assessments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
